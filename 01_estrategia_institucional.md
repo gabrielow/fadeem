@@ -25,17 +25,20 @@ Para Fadeem, ser un **faro** significa no empujar ni arrastrar al emprendedor, s
 
 ## 💎 Valores Fundacionales
 
-### 1. Innovación
+### 1. Filosofía
+> *"El liberalismo es el respeto irrestricto del proyecto de vida del prójimo, basado en el principio de no agresión y en defensa del derecho a la vida, a la libertad y a la propiedad, cuyas instituciones fundamentales son la propiedad privada, los mercados libres de intervención estatal, la libre competencia, la división del trabajo y la cooperación social, donde solamente se puede ser exitoso sirviendo al prójimo con bienes de mejor calidad o a un mejor precio."*
+
+### 2. Innovación
 > *"Siempre buscamos nuevas formas de acompañar al emprendedor."*
 * **Cómo se vive:** Experimentamos con formatos de aprendizaje ágiles, tecnologías gratuitas y de código abierto (ej: microaprendizaje y guías interactivas vía WhatsApp, plantillas basadas en software libre) y dinámicas comunitarias lúdicas. 
 * **Lo que evitamos:** La rigidez académica tradicional y las metodologías obsoletas que exigen demasiado tiempo improductivo al emprendedor.
 
-### 2. Impacto Real
+### 3. Impacto Real
 > *"No nos quedamos en la teoría, buscamos resultados concretos en la vida del emprendedor."*
 * **Cómo se vive:** Cada taller, mentoría o plantilla compartida debe traducirse en una acción inmediata: mejorar una venta, ordenar un costo, automatizar un mensaje o ganar claridad en la toma de decisiones comerciales. Medimos nuestro éxito a través del crecimiento real de los proyectos de nuestra comunidad.
 * **Lo que evitamos:** "Charlas inspiradoras" vacías de herramientas prácticas o marcos de trabajo corporativos imposibles de aplicar por un emprendedor solista.
 
-### 3. Accesibilidad
+### 4. Accesibilidad
 > *"El conocimiento y las herramientas tienen que estar al alcance de todos."*
 * **Cómo se vive:** Eliminamos barreras geográficas, económicas y tecnológicas. Diseñamos con un enfoque híbrido pensando en el emprendedor misionero que tal vez tiene conectividad limitada o no puede desplazarse. Usamos un lenguaje cotidiano, libre de tecnicismos pretenciosos.
 * **Lo que evitamos:** El elitismo en el ecosistema de startups. Fadeem no es solo para proyectos tecnológicos de alto impacto; es para la panadería local, el taller de artesanías, el profesional independiente y el pequeño productor agrícola.
