@@ -31,6 +31,8 @@ Adoptamos el **español rioplatense/misionero neutro y cercano** (uso del *voseo
 | **Enfocarnos en la acción:** *"Probá esto hoy en tu negocio y contanos cómo te fue."* | **Enfocarnos en teoría abstracta:** *"De acuerdo al modelo macroeconómico de Porter..."* |
 | **Validar los desafíos del negocio:** *"Sabemos que a veces es complejo y genera dudas ponerle precio a tu trabajo."* | **Promover el sobreesfuerzo sin planificación:** *"Tenés que trabajar 18 horas por día si querés tener éxito."* |
 | **Ser auténticos con la realidad local de Misiones:** *"Ideal para vender a través de envíos provinciales..."* | **Usar ejemplos corporativos inalcanzables:** *"Como hizo Starbucks cuando implementó su estrategia global..."* |
+| **Fomentar la autonomía personal:** *"Te damos las herramientas y te acompañamos para que seas el dueño de tu propio destino y proyecto de vida."* | **Promover el asistencialismo pasivo:** *"Nosotros o el Estado nos haremos cargo de tu subsistencia de manera permanente."* |
+| **Impulsar conexiones directas y descentralizadas:** *"Te contactamos con el municipio o con otro emprendedor para que hablen directamente y coordinen entre ustedes."* | **Centralizar y fiscalizar el flujo de la red:** *"Cualquier consulta o alianza debe pasar y ser aprobada previamente por la coordinación de Fadeem."* |
 
 ---
 

@@ -8,9 +8,10 @@ En esta etapa inicial de lanzamiento, Fadeem prioriza la construcción del espac
 
 El proyecto se sustenta bajo un esquema de **colaboración ad-honorem y participación voluntaria**:
 
-* **Aportes de los Organizadores y Mentores:** El tiempo dedicado al diseño de metodologías, moderación de grupos y acompañamiento inicial es voluntario.
+* **Aportes de los Organizadores y Mentores (Donación de Capital Humano):** El tiempo, las habilidades, el conocimiento acumulado y la experiencia de los organizadores y mentores constituyen la principal inversión de Fadeem. Se trata de una transferencia voluntaria de capital humano para fertilizar y multiplicar las habilidades de los participantes, dinamizando la economía local.
 * **Infraestructura de Costo Cero y Open-Source:** Se prioriza el uso de canales digitales gratuitos y herramientas de código abierto (ej: WhatsApp, suites ofimáticas libres, almacenamiento compartido gratuito) para asegurar que el costo operativo financiero de la organización sea cero absoluto.
 * **Encuentros y Talleres Gratuitos:** Las actividades presenciales de vinculación o clínicas prácticas se desarrollan en espacios comunitarios o municipales cedidos sin cargo en Jardín América y la región. La participación es siempre gratuita, libre de aranceles o intermediación económica.
+* **Estructura de Red Distribuida y Descentralizada (Resiliencia Operativa):** Al operar como un catalizador que impulsa el contacto directo en lugar de un intermediario centralizado obligatorio, el modelo reduce drásticamente el costo de coordinación y los cuellos de botella operativos. El valor del ecosistema crece de manera exponencial y descentralizada a medida que los miembros de la red se conectan y cooperan de forma autónoma.
 
 ---
 

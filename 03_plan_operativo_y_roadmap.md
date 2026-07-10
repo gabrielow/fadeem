@@ -17,7 +17,7 @@ graph TD
 ```
 
 ### 📈 Fase 1: Cimentación (Comunidad y Confianza)
-*Foco: Construcción de comunidad activa, validación de necesidades y soporte práctico básico. Esta fase avanza de acuerdo a la madurez de los participantes, respetando sus propios tiempos.*
+*Foco: Cimentación del desarrollo social y diagnóstico de necesidades. Construcción de comunidad activa y soporte práctico básico enfocado en tejer redes horizontales (de igual a igual entre emprendedores). Esta fase avanza de acuerdo a la madurez de los participantes, respetando sus propios tiempos para afianzar el capital humano y social inicial.*
 
 * **Objetivo 1: Construir una comunidad activa de emprendedores.**
   * *Acción:* Lanzamiento de canales digitales de costo cero (grupo de WhatsApp interactivo de Fadeem, enfocado inicialmente en Jardín América y la provincia de Misiones).
@@ -30,7 +30,7 @@ graph TD
 ---
 
 ### 📈 Fase 2: Consolidación (Mentores e Infraestructura de Contenido)
-*Foco: Estructuración de la red de mentores ad-honorem y desarrollo de la Caja de Herramientas con recursos open-source.*
+*Foco: Consolidación educativa y capacitación en el terreno. Estructuración de la red de mentores ad-honorem y desarrollo de la Caja de Herramientas con recursos open-source para potenciar las habilidades productivas del emprendedor. Se promueve la estructuración de redes verticales de contacto (entre emprendedores iniciales y mentores experimentados).*
 
 * **Objetivo 1: Incorporar mentores con experiencia real y espíritu voluntario.**
   * *Acción:* Identificar y convocar a emprendedores consolidados de Jardín América y de la provincia de Misiones que quieran donar horas de consultoría y mentoría 1-a-1 de igual a igual.
@@ -44,7 +44,7 @@ graph TD
 ---
 
 ### 📈 Fase 3: Expansión (Alianzas y Escala Nacional)
-*Foco: Posicionamiento institucional y alcance federal de libre acceso.*
+*Foco: Escalabilidad del modelo de desarrollo de capital humano y social. Posicionamiento institucional y alcance federal de libre acceso. Foco en la formación de redes de contacto institucionales (municipios, cooperativas y cámaras) que interactúen de manera directa y libre para potenciar el ecosistema.*
 
 * **Objetivo 1: Consolidar la red en Misiones y proyectar el impacto nacional.**
   * *Acción:* Articular convenios de colaboración con el municipio de Jardín América, otras comunas locales y cámaras de comercio de la provincia.

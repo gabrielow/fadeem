@@ -1,7 +1,5 @@
 # 🔦 Faro de Emprendedores (Fadeem)
 
-> **"Primero valor, después negocio. Construimos el faro antes de cobrar la entrada."**
-
 Faro de Emprendedores (Fadeem) es una organización concebida para acompañar, guiar y potenciar a los emprendedores de la provincia de Misiones en sus etapas iniciales. Este repositorio contiene la base conceptual, estratégica y de identidad del proyecto para fundamentar y estructurar su crecimiento orgánico y sustentable.
 
 ---
@@ -25,8 +23,9 @@ Para explorar la fundamentación del proyecto, te invitamos a recorrer los sigui
 
 ## 🎯 Pilares del Proyecto
 
-* **Guía y Acompañamiento:** Entendemos que el camino del emprendedor suele ser solitario y confuso. Ofrecemos orientación clara y mentores con experiencia real.
-* **Comunidad Activa:** Un espacio seguro donde compartir aprendizajes, colaborar y encontrar impulso mutuo.
+* **Desarrollo del Capital Humano:** Entendemos el progreso del emprendedor como un proceso de inversión integral en sus capacidades. Bajo la Teoría del Capital Humano (Gary Becker) y la lógica de integración social, educativa y laboral, brindamos herramientas para afianzar su autonomía personal, destreza comercial y desarrollo en libertad.
+* **Guía y Acompañamiento:** Acompañamos al emprendedor en su camino mediante orientación práctica de igual a igual, reduciendo el riesgo y acelerando el aprendizaje a través de la experiencia real compartida.
+* **Comunidad Activa y Capital Social:** Un espacio seguro y voluntario donde los participantes cooperan, interactúan y construyen redes de contacto directas (entre sí, con mentores y con instituciones locales), facilitando la descentralización y el libre intercambio de valor para sostener sus proyectos de vida.
 * **Impacto Local en Misiones:** Foco en las necesidades particulares de la región geográfica, su ecosistema y oportunidades.
 
 ---
